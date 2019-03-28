@@ -21,7 +21,9 @@ It is assumed that everything needed to build in an image exists in a single dir
   "base_image": "ubuntu",
   "base_versions": [ "18.04" ],
   "installers": {
-
+    "version": "1.2.3",
+    "filename": "some-installer",
+    "url": "https://.../some-installer"
   }
 }
 ```
