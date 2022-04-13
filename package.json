@@ -19,7 +19,7 @@
   "homepage": "https://github.com/thelonious/docker-builder#readme",
   "dependencies": {
     "args": "^3.0.8",
-    "async": "^2.6.3"
+    "async": "^3.2.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
